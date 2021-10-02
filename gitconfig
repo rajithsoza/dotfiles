@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rajithsoza@icloud.com
+	name = Rajith Soza
