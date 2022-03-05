@@ -65,3 +65,4 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
+export PATH=/opt/homebrew/bin:./bin:./node_modules/.bin:/Users/rajithsoza/.rbenv/bin:/Users/rajithsoza/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin
